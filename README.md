@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/muhammaddanish00"><img src="https://api.daily.dev/devcards/v2/RaRJSJBxlqrWSzsEt9qgK.png?r=eui&type=wide" width="652" alt="Muhammad Danish's Dev Card"/></a>
+![logo](https://github.com/LegendDanish/LegendDanish/blob/main/CoverImage.png)
 <h1 align="center">Hi 👋, I'm Muhammad Danish</h1>
 <h3 align="center">A passionate Artifical Intelligence Engineer</h3>
 <div style="display: flex;
